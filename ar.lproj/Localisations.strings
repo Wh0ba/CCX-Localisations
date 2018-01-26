@@ -22,7 +22,7 @@
     <key>AIRDROP_MENU_EVERYONE</key>
     <string>الجميع</string>
     <key>AIRDROP_MENU_TITLE</key>
-    <string>يمكنم كشف جهازك عبر البث الهوائي للاستلام من الجميع او من جهات الاتصال المعلومة فقط</string>
+    <string>يُمكنك ان تكشِفَ عن جهازك عبر البث الهوائي للاستلام من الجميع او من جهات الاتصال المعلومة فقط</string>
     <key>AIRDROP_MENU_CANCEL</key>
     <string>إلغاء</string>
 </dict>
